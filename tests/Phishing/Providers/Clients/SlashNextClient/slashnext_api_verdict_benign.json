@@ -1,0 +1,21 @@
+{
+  "errorNo":"0",
+  "errorMsg":"Success",
+  "urlData":{
+    "url":"www.good.com/index.php",
+    "scanId":"YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+    "threatData":{
+      "verdict":"Benign",
+      "threatStatus":"N/A",
+      "threatType":"N/A",
+      "threatName":"N/A",
+      "firstSeen":"mm-dd-yyyy hh:mm:ss UTC",
+      "lastSeen":"mm-dd-yyyy hh:mm:ss UTC"
+    },
+    "finalUrl":"N/A"
+  },
+  "normalizeData":{
+    "normalizeStatus":0,
+    "normalizeMessage":""
+  }
+}

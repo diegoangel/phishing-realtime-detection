@@ -1,0 +1,21 @@
+{
+  "errorNo":"1",
+  "errorMsg":"SlashNext On-demand threat Intelligence cloud is performing the requested URL scan, please comeback later",
+  "urlData":{
+    "url":"www.delayed.com/index.php",
+    "scanId":"YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+    "threatData":{
+      "verdict":"N/A",
+      "threatStatus":"N/A",
+      "threatType":"N/A",
+      "threatName":"N/A",
+      "firstSeen":"N/A",
+      "lastSeen":"N/A"
+    },
+    "finalUrl":"N/A"
+  },
+  "normalizeData":{
+    "normalizeStatus":0,
+    "normalizeMessage":""
+  }
+}

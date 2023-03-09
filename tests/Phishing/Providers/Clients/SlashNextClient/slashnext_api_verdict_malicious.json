@@ -1,0 +1,21 @@
+{
+  "errorNo":"0",
+  "errorMsg":"Success",
+  "urlData":{
+    "url":"www.bad.com/index.php",
+    "scanId":"YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+    "threatData":{
+      "verdict":"Malicious",
+      "threatStatus":"Active",
+      "threatType":"Phishing and Social Engineering",
+      "threatName":"Fake Login Page",
+      "firstSeen":"mm-dd-yyyy hh:mm:ss UTC",
+      "lastSeen":"mm-dd-yyyy hh:mm:ss UTC"
+    },
+    "finalUrl":"N/A"
+  },
+  "normalizeData":{
+    "normalizeStatus":0,
+    "normalizeMessage":""
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "errorNo":"0",
+  "errorMsg":"Success",
+  "urlData":{
+    "url":"www.badredirector.com/index.php",
+    "scanId":"YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+    "threatData":{
+      "verdict":"Redirector",
+      "threatStatus":"N/A",
+      "threatType":"N/A",
+      "threatName":"N/A",
+      "firstSeen":"mm-dd-yyyy hh:mm:ss UTC",
+      "lastSeen":"mm-dd-yyyy hh:mm:ss UTC"
+    },
+    "landingURL":{
+      "url":"www.bad.com/index.php",
+      "scanID":"ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ",
+      "threatData":{
+        "verdict":"Malicious",
+        "threatStatus":"Active",
+        "threatType":"Phishing and Social Engineering",
+        "threatName":"Rouge Software",
+        "firstSeen":"mm-dd-yyyy hh:mm:ss UTC",
+        "lastSeen":"mm-dd-yyyy hh:mm:ss UTC"
+      }
+    }
+  },
+  "normalizeData":{
+    "normalizeStatus":0,
+    "normalizeMessage":""
+  }
+}

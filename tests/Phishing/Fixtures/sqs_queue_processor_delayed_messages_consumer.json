@@ -1,0 +1,22 @@
+{
+  "Messages": [
+    {
+      "MessageId": "b27353fd-4354-4dc3-89da-98559ca47666",
+      "ReceiptHandle": "AQEBsvIbZyZS/G5vZdxddNCoUb//x0rIjgCU27TW/n3cwVk0D346FzS8N/MudR5Y3aoX6UE5XzAeeC6yM4oP2Vae+DkD/diYwuhp0QD8UqVIUptxBhSXJbL8XKLKMvvx6xMe2QSqEloKvgHPwpAtprL8pLKD6HP8/TpeD+6XRDjYknkIzRH4CJ+bsT1G9Q8yP94rfoePU0GOkui4YtbnfiyFeRqQsHC+oPeNij4bL7xPEeAU5QaEdoYkVrmZs0rEDJJvK+X0+qVP82DMlQn34saQOHtK/xLNEfa3kGLlbe0X2sG2WdMTsW0oa/mPlc52Gbs2l7hFQXsAjTy24KbUJOzqUzQjpZCgEo2GIYmr9hdZXVkSHd8zB0wS2ndhbFJjLAooWlrB0D5UmH9xTr74U7lIn5TQZGbADg0eqRM0kwSL94Q=",
+      "MD5OfBody": "89b36445d75c78573dcaee963a9be5d4",
+      "Body": "{\"url\":\"https:\\/\\/app.mmiotti.sdev.al2.sg53.net\\/s3\\/1483835\\/survey-5\",\"customerId\":895276,\"surveyId\":1483835,\"scanId\":\"4c3e81ac-6a9f-4851-8b89-789ebefbfb6a\",\"attempt\":5}"
+    },
+    {
+      "MessageId": "b27353fd-4354-4dc3-89da-98559ca47667",
+      "ReceiptHandle": "BQEBsvIbZyZS/G5vZdxddNCoUb//x0rIjgCU27TW/n3cwVk0D346FzS8N/MudR5Y3aoX6UE5XzAeeC6yM4oP2Vae+DkD/diYwuhp0QD8UqVIUptxBhSXJbL8XKLKMvvx6xMe2QSqEloKvgHPwpAtprL8pLKD6HP8/TpeD+6XRDjYknkIzRH4CJ+bsT1G9Q8yP94rfoePU0GOkui4YtbnfiyFeRqQsHC+oPeNij4bL7xPEeAU5QaEdoYkVrmZs0rEDJJvK+X0+qVP82DMlQn34saQOHtK/xLNEfa3kGLlbe0X2sG2WdMTsW0ba/mPlc52Gbs2l7hFQXsAjTy24KbUJOzqUzQjpZCgEo2GIYmr9hdZXVkSHd8zB0wS2ndhbFJjLAooWlrB0D5UmH9xTr74U7lIn5TQZGbADg0eqRM0kwSL5RZ=",
+      "MD5OfBody": "35b36445d75c78573dcaee963a9be5d3",
+      "Body": "{\"url\":\"https:\\/\\/app.mmiotti.sdev.al2.sg53.net\\/s3\\/1483836\\/survey-6\",\"customerId\":895276,\"surveyId\":1483836,\"scanId\":\"4c3e81ac-6a9f-4851-8b89-789ebefbfb7b\",\"attempt\":6}"
+    },
+    {
+      "MessageId": "b27353fd-4354-4dc3-89da-98559ca47668",
+      "ReceiptHandle": "CQEBsvIbZyZS/G5vZdxddNCoUb//x0rIjgCU27TW/n3cwVk0D346FzS8N/MudR5Y3aoX6UE5XzAeeC6yM4oP2Vae+DkD/diYwuhp0QD8UqVIUptxBhSXJbL8XKLKMvvx6xMe2QSqEloKvgHPwpAtprL8pLKD6HP8/TpeD+6XRDjYknkIzRH4CJ+bsT1G9Q8yP94rfoePU0GOkui4YtbnfiyFeRqQsHC+oPeNij4bL7xPEeAU5QaEdoYkVrmZs0rEDJJvK+X0+qVP82DMlQn34saQOHtK/xLNEfa3kGLlbe0X2sG2WdMTsW0oa/mPlc52Gbs2l7hFQXsAjTy24KbUJOzqUzQjpZCgEo2GIYmr9hdZXVkSHd8zB0wS2ndhbFJjLAooWlrB0D5UmH9xTr74U7lIn5TQOGbADg0eqRM0kwSL9N4=",
+      "MD5OfBody": "25b36445d75c78573dcaee963a9be5d8",
+      "Body": "{\"url\":\"https:\\/\\/app.mmiotti.sdev.al2.sg53.net\\/s3\\/1483837\\/survey-7\",\"customerId\":895276,\"surveyId\":1483837,\"scanId\":\"4c3e81ac-6a9f-4851-8b89-789ebefbfb8c\",\"attempt\":1}"
+    }
+  ]
+}
